@@ -1,0 +1,46 @@
+.contact{
+    margin-top: 50px;
+}
+
+.contact_header{
+    font-size: 40px;
+    padding: 10px 0px;
+    font-weight: 400;
+}
+
+.contact_title{
+    color: #868e96;
+    font-size: 18px;
+    line-height: normal;
+    padding: 10px 0;
+}
+
+.contact_aboutme{
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 37px;
+    color: black;
+}
+
+
+.contact_location{
+    line-height: 45px;
+    font-size: 19px;
+}
+
+.contact_opp{
+    padding-bottom: 10px;
+    line-height: 45px;
+    font-size: 19px;
+}
+
+.image-content-profile {
+    text-align: center;
+    max-width: 100%;
+    height: auto;
+}
+
+
+.right_contact{
+    margin: 60px
+}
